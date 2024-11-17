@@ -45,16 +45,16 @@ PAGE_NO      = 1
 
 
 class MirrorStatus:
-    STATUS_UPLOADING   = "Uᴘʟᴏᴀᴅɪɴɢ"
-    STATUS_DOWNLOADING = "Dᴏᴡɴʟᴏᴀᴅɪɴɢ"
+    STATUS_UPLOADING   = "⏫Uᴘʟᴏᴀᴅɪɴɢ"
+    STATUS_DOWNLOADING = "⏬Dᴏᴡɴʟᴏᴀᴅɪɴɢ"
     STATUS_CLONING     = "Cʟᴏɴᴇ"
     STATUS_QUEUEDL     = "QᴜᴇᴜᴇDL"
     STATUS_QUEUEUP     = "QᴜᴇᴜᴇUᴘ"
-    STATUS_PAUSED      = "Pᴀᴜsᴇ"
+    STATUS_PAUSED      = "⏸️Pᴀᴜsᴇ"
     STATUS_ARCHIVING   = "Aʀᴄʜɪᴠᴇ"
     STATUS_EXTRACTING  = "Exᴛʀᴀᴄᴛ"
     STATUS_SPLITTING   = "Sᴘʟɪᴛ"
-    STATUS_METADATA    = "Aᴅᴅɪɴɢ Mᴇᴛᴀᴅᴀᴛᴀ Pᴏᴡᴅᴇʀᴇᴅ Bʏ @Nᴏʀᴅ Bᴏᴛᴢ"
+    STATUS_METADATA    = "Aᴅᴅɪɴɢ Mᴇᴛᴀᴅᴀᴛᴀ Pᴏᴡᴅᴇʀᴇᴅ Bʏ Mr.X"
     STATUS_CHECKING    = "CʜᴇᴄᴋUᴘ"
     STATUS_SEEDING     = "Sᴇᴇᴅq"
 
